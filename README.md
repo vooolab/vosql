@@ -21,10 +21,6 @@ pip install -r requirements.txt
 python vosql.py</pre>
 <b>
 
-<h3>PyPI Kurulumu</h3>
-<b>Termux / Linux / Windows</b>
-<pre>pip install vosql</pre>
-
 <h2 align="center">
 Güncelleme Notları
 </h2>
