@@ -14,7 +14,7 @@ cd vosql
 pip install -r requirements.txt
 python vosql.py</pre>
 <b>Linux Dağıtımları</b>
-<pre>pkg install python
+<pre>sudo apt-get install python
 git clone https://github.com/vooolab/vosql/
 cd vosql
 pip install -r requirements.txt
