@@ -1,4 +1,6 @@
-# vosql V1.0.0
+<h1 align="center">
+VoSql v1.0.0
+</h1>
 SQL Zaafiyetli siteleri aramakta zorluk çektiğinizi tahmin edebiliyorum. Tarayıcı üzerinde teker teker denemek yerine aynı dorku araç üzerinde tarayabilir ve çıkan yüzlerce sonuç arasından saniyeler içerisinde zaafiyetli siteleri bulabilirsiniz. Aoihttp ve Asyncio gibi yüksek iş parçacığına sahip araçlar sayesinde işlem 10 kat daha hızlı sonuç vermektedir.
 
 ## Kurulum
