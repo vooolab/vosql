@@ -17,7 +17,7 @@ python vosql.py</pre>
 <pre>sudo apt-get install python python3 python-pip
 git clone https://github.com/vooolab/vosql/
 cd vosql
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 python3 vosql.py</pre>
 <b>
 
