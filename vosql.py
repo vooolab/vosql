@@ -119,7 +119,7 @@ found = []
 
 information = f"""
 --------------------------------------------
-  {c.bright_green}VoSql{c.r} V1.0.0 <-> {c.bright_blue}Developer:{c.r} The Vodka
+  {c.bright_green}VoSql{c.r} V1.0.1 <-> {c.bright_blue}Developer:{c.r} The Vodka
 --------------------------------------------
 """
 
