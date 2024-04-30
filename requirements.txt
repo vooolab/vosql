@@ -1,4 +1,5 @@
 asyncio
 aiohttp
 googlesearch
+google
 colorama
