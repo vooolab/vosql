@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vooolab/vosql/main/git-images/banner.png" style="width: 350px;"/>
 </div>
+
 <h1 align="center">
 VoSql v1.0.1
 </h1>
@@ -33,3 +34,15 @@ Güncelleme Notları
 - SQLMAP parametre önericisi eklendi.
 - Bağlantı hataları düzeltildi.
 - Dosya yazma problemi düzenlendi.
+
+<h2 align="center">
+Ekran Görüntüsü
+</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vooolab/vosql/main/git-images/vosql1-0-1ss.png"/>
+</div>
+
+<h2 align="center">
+Taglar
+</h2>
+sql injection, sql zaafiyeti, sql zaafiyetli siteleri bulma, sql zaafiyetli siteleri tarama, linux, pardus, arch, windows, python, google, requests, thread, sql scanner, vuln, sql finder, hack, cyber security, web scanner, turkish, Türkçe
