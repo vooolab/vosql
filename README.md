@@ -5,8 +5,7 @@
 <h1 align="center">
 VoSql v1.0.1
 </h1>
-SQL Zaafiyetli siteleri aramakta zorluk çektiğinizi tahmin edebiliyorum. Tarayıcı üzerinde teker teker denemek yerine aynı dorku araç üzerinde tarayabilir ve çıkan yüzlerce sonuç arasından saniyeler içerisinde zaafiyetli siteleri bulabilirsiniz. Aoihttp ve Asyncio gibi yüksek iş parçacığına sahip araçlar sayesinde işlem 10 kat daha hızlı sonuç vermektedir. Ücretsiz ve Açık Kaynak olarak paylaşılan bu projeyi çalıştırmak için aşağıdaki dökümantasyonu inceleyiniz.
-
+SQL Zaafiyetli siteleri bulmak zorlayıcı olabilir ancak bu proje sizler için tarayıcı üzerinde yüzlerce sekme açıp uzun süreler boyunca elle taramak yerine kendi Google arama motoru ile sonuçları filtreler. Yüksek işlem parçacıklı modülleri sayesinde siteleri normalinde 10 kat daha hızlı tarayıp zaafiyet hatası veren siteleri size bildirir. İsteğinize bağlı olarak SQLMAP üzerinde tarama yapmak isteyen kişilere hazır komut parametreleri sağlar ve bunun yanında zaafiyetli siteleri bir dosyaya kaydedebilme özelliği sunar. Şu an yeni geliştirilen bu proje üzerinden yaşadığınız problemlerden ve sorunlardan ötürü özür dilerim. Bu ve bunun gibi durumlarda yaşadığınız problemleri GitHub üzerinden iletebilirsiniz. Bu sayede proje üzerinde yaşadığınız sorunları fixleyebilir ve projeyi daha iyi bir yarınlara, daha iyi bir şekilde hazırlayabilim.
 <h2 align="center">
 Kurulum
 </h2>
