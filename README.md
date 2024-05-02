@@ -14,14 +14,14 @@ Kurulum
 <pre>pkg install python
 git clone https://github.com/vooolab/vosql/
 cd vosql
-pip install -r requirements.txt
+python setup.py
 python vosql.py</pre>
 <b>Linux Dağıtımları</b>
 <pre>sudo apt-get update
 sudo apt-get install python3 python3-pip
 git clone https://github.com/vooolab/vosql/
 cd vosql
-pip3 install -r requirements.txt
+python setup.py
 python3 vosql.py</pre>
 <b>
 
