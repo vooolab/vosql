@@ -1,3 +1,5 @@
+<center>⚠️ <a href="https://pypi.org/project/google/">Google Arama Modülü</a>, bilinmeyen bir sebepten ötürü arıza yapmaktadır ve sorun biz kaynaklı değildir. Google'ın güncel kaynak kodları veri kazımaya karşı şifrelendiği için arama sayfalarının kodları kazınamıyor. Bu sebeple modül sahiplerinin ilgili modülü düzeltmesini beklemek zorundasınız. Eğer bu mesajı görüyorsanız sorun hala devam etmektedir.</center>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/vooolab/vosql/main/git-images/banner.png" style="width: 350px;"/>
 </div>
